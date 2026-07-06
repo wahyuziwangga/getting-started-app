@@ -1,6 +1,6 @@
 services:
   app:
-    image: getting-started:v3
+    image: ziwangga/getting-started-app:v3
     ports:
       - 127.0.0.1:3000:3000
     volumes:
